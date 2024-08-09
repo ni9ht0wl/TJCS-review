@@ -1,6 +1,6 @@
 # TJCS-Course-Level2022
 Some links
-- [E-BOOK](https://zh.z-lib.gs/)
+- [E-Book Download](https://zh.z-lib.gs/)
 
 More repositories:
 - [TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course)
