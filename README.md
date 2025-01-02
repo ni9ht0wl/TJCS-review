@@ -8,3 +8,5 @@ More repositories:
 - [zzhuncle/TJCS-Undergraduate-Courses](https://github.com/zzhuncle/TJCS-Undergraduate-Courses)
 - [Nozom1466/Tongji-CS-Assignments](https://github.com/Nozom1466/Tongji-CS-Assignments)
 - [MurkyWorm/TongjiCSHomework](https://github.com/MurkyWorm/TongjiCSHomework)
+- [italas12138/TongjiUniversity-Course](https://github.com/Nozom1466/Tongji-CS-Assignments)
+- [ZhengBryan/TongjiCS-Undergraduate-Courses](https://github.com/ZhengBryan/TongjiCS-Undergraduate-Courses)
